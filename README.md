@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 🎓 Integrated M.Tech (Computer Science) student
+- 🎓 Integrated M.Tech (Software Engineeing) student
 - 💻 Passionate about software development and algorithms
 - 🔨 Working on DSA practice and mini-projects
 - 🌱 Learning Python, Data Structures, and Machine Learning
