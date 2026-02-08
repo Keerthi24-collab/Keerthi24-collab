@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
+- 🎓 Integrated M.Tech (Computer Science) student
+- 💻 Passionate about software development and algorithms
+- 🔨 Working on DSA practice and mini-projects
+- 🌱 Learning Python, Data Structures, and Machine Learning
+- 🤝 Open to collaborating on student & open-source projects
+- 💬 Ask me about C++, Python, and Git
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keerthi_naidu_2478) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tirumalasetti Keerthi) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tirumalasetti Keerthi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keerthitirumalasetti24@gmail.com) 
 
