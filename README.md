@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 🎓 Integrated M.Tech (Software Engineeing) student
-- 💻 Passionate about software development and algorithms
-- 🔨 Working on DSA practice and mini-projects
-- 🌱 Learning Python, Data Structures, and Machine Learning
-- 🤝 Open to collaborating on student & open-source projects
-- 💬 Ask me about C++, Python, and Git
+🎓 Integrated M.Tech Software Engineering student at VIT
+💻 Interested in Backend Development and Software Engineering
+☕ Building Java & Spring Boot projects
+📚 Practicing Data Structures & Algorithms
+🌱 Currently learning Spring Boot, MySQL, and System Design
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keerthi_naidu_2478) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tirumalasetti Keerthi) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tirumalasetti Keerthi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keerthitirumalasetti24@gmail.com) 
 
